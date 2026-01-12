@@ -46,6 +46,6 @@ stdenv.mkDerivation (finalAttrs: {
     homepage = "https://launchpad.net/subunit";
     license = lib.licenses.asl20;
     platforms = lib.platforms.all;
-    maintainers = with lib.maintainers; [ azey7f ];
+    maintainers = with lib.maintainers; [ maevii ];
   };
 })
